@@ -6,4 +6,4 @@ Requisiti:
 -Scaricare e Installare MySQL Workbench dal seguente link:
 https://dev.mysql.com/downloads/workbench/
 
-Scaricare tutta la cartella del progetto al fine di eseguire correttamente il programma.
+Scaricare tutta la cartella "ProgettoLibreria" per eseguire correttamente il programma in quanto contiene tutte le info necessarie per funzionare.
